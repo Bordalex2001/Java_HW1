@@ -10,9 +10,14 @@ public class Program {
 	public static void main(String[] args) throws IOException{
 		Scanner scan = new Scanner(System.in);
 		
+		//Task 1
 		stdinAndStdout(scan);
+		
+		//Task 2
 		System.out.println();
 		ifAndElse(scan);
+		
+		//Task 3
 		System.out.println();
 		Loops();
 		
